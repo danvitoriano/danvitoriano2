@@ -1,13 +1,13 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-    "title": "Storefront",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10738/7688717b-d6ea-4ab7-a289-37f8e5e4ccce",
+    "title": "Dan Vitoriano",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx ",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx"
+    "description": "Diversidade, tecnologia e educação com propósito.",
+    "titleTemplate": "%s | tech creator",
+    "descriptionTemplate": "%s | Dan Vitoriano"
   },
   "theme": {
     "__resolveType": "Fashion theme"
